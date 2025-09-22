@@ -96,12 +96,14 @@ After installing all packages, in other CLI use ssh karaf container, using karaf
 ssh -p 8101 karaf@localhost
 ```
 
+
 ONOS CLI should be working just fine.<br/>
 ![file](https://github.com/alemilan/Software-Defined-Networks---SDN/blob/main/Tutorials/onos.png)
 
 
 GUI is available from at http://localhost:8181/onos/ui, with user: onos, password: rocks, as follows:<br/>
 ![file](https://github.com/alemilan/Software-Defined-Networks---SDN/blob/main/Tutorials/onos_gui.png)
+
 
 And after login:<br/>
 ![file](https://github.com/alemilan/Software-Defined-Networks---SDN/blob/main/Tutorials/onos_login.png)
