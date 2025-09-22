@@ -64,9 +64,12 @@ Export the environment variables into .bashrc file as follows:
 
 ```
 sudo nano ~/.bashrc
+```
 
-#at the end of the file add
+At the end of the file add:
 
+
+```
 export ONOS_ROOT=$HOME/onos/
 source $ONOS_ROOT/tools/dev/bash_profile
 ```
