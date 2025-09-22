@@ -1,4 +1,4 @@
-This tutorial describes ONOS 2.6.0 building and configuration for work with mininet and suport onos-apps-creation.<br\>
+This tutorial describes ONOS 2.6.0 building and configuration for work with mininet and suport onos-apps-creation.<br/>
 For user convenience, would be good (but maybe not so secure) to allow the admin user to performe some sudo commands without providing password every time. For this, follow these steps:
 
 
