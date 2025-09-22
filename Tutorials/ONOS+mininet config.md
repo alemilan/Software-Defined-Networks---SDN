@@ -16,7 +16,7 @@ Considering a fresh Ubuntu 20.04 host, follow these steps to update Ubuntu packa
 
 ```sheel
 sudo apt-get update
-suo apt-get upgrade
+sudo apt-get upgrade
 ```
 This tutorial follows ONOS installation throught Bazelisk. Firstly, install the required dependencies as described in [ONOS wiki](https://wiki.onosproject.org/display/ONOS/Installing+required+tools):
 
