@@ -59,6 +59,14 @@ cd onos
 bazel build onos
 ```
 
+Run ONOS locally with the following command (it will take a while):
+
+
+```
+bazel run onos-local -- clean debug
+```
+
+
 Export the environment variables into .bashrc file as follows:
 
 
@@ -72,4 +80,12 @@ At the end of the file add:
 ```
 export ONOS_ROOT=$HOME/onos/
 source $ONOS_ROOT/tools/dev/bash_profile
+```
+
+
+Source the .bashrc file with:
+
+
+```
+source ~/.bashrc
 ```
