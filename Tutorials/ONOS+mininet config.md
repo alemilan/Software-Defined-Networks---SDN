@@ -89,3 +89,12 @@ Source the .bashrc file with:
 ```
 source ~/.bashrc
 ```
+
+After installing all packages, in other CLI use ssh karaf container, using karaf as user and password:
+
+```
+ssh -p 8101 karaf@localhost
+```
+
+ONOS should be working just fine.
+![file](https://github.com/alemilan/Software-Defined-Networks---SDN/blob/main/Tutorials/onos.png)
