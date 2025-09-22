@@ -34,7 +34,7 @@ sudo apt-get install git-review
 ```
 
 
-Donwload and install bazelisk throught Bazel:
+Download and install bazelisk throught Bazel:
 
 
 ```
