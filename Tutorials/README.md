@@ -21,15 +21,15 @@ sudo apt-get upgrade
 This tutorial follows ONOS installation throught Bazelisk. Firstly, install the required dependencies as described in [ONOS wiki](https://wiki.onosproject.org/display/ONOS/Installing+required+tools):
 
 ```
-sudo apt install python
-sudo apt install python3
-sudo apt install python3-pip python3-dev python3-setuptools
+sudo apt install python -y
+sudo apt install python3 -y
+sudo apt install python3-pip python3-dev python3-setuptools -y
 pip3 install --upgrade pip
 pip3 install selenium
 
 #installing git requirements
 
-sudo apt-get install git
+sudo apt-get install git -y
 sudo apt-get install git-review
 ```
 
