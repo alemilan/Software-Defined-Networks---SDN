@@ -31,6 +31,10 @@ pip3 install selenium
 
 sudo apt-get install git -y
 sudo apt-get install git-review
+
+#installing common used libraries
+sudo apt-get install python3-scapy
+sudo apt-get install xterm
 ```
 
 
